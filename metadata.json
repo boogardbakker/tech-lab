@@ -1,1 +1,7 @@
-
+{
+  "name": "Baker-chain",
+  "website": "https://boogardbakker.github.io",
+  "description": "Secure, resilient, and high-performance node.",
+  "logo": "https://boogardbakker.github.io/techlap/tech-nodding.png",
+  "twitter": "https://twitter.com/bbakker90"
+}
